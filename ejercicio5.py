@@ -1,4 +1,3 @@
-
 #Recibir una cadena y darle la vuelta sin usar metodos especiales, solo utilizar estructuras de control
 
 def invertido(texto):

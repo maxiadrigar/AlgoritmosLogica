@@ -1,4 +1,4 @@
-
+## Dado un numero, devuelva su tabla de multiplicar
 
 def multiplicar(n):
 

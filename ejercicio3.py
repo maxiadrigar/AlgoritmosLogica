@@ -1,3 +1,4 @@
+# Crea una funcion que cuente cuantas veces aparece X palabra en una frase
 
 def contar_palabras(frase, busqueda):
 
